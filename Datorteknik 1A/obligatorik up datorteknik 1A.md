@@ -11,4 +11,4 @@ Microsoft Windows 10 Pro OEM 64-bit
 Intel EXPI9301CTBLK PCI-Express x1 10/100/1000 Mbps Network Adapter
 Asus VS228H-P 21.5" Monitor
 Logitech K120 Wired Standard Keyboard
-Logitech G300S Wired Optical Mouse
+Logitech M525 Trådlös Mus (vit/röd)
