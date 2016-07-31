@@ -1,5 +1,7 @@
 ![enter image description here](https://musingsofashibe.files.wordpress.com/2015/10/mrrobotlogo.jpg)
   
+##Forslag 1  
+    
 Intel Celeron G1840 2.8GHz Dual-Core Processor 362SEK [länk](http://www.mpbutiken.se/komponenter/processorer/intel-1150/intel-celeron-g1840-2-8ghz-box-hd-graphics-54)  
 Cooler Master Hyper 212 EVO 82.9 CFM Sleeve Bearing CPU Cooler 343SEK [länk](http://www.webhallen.com/se-sv/datorkomponenter/148002-cooler_master_cpu_kylare_hyper_212_evo-socket_775-1150-1155-1366-am3-fm1&atcl=external:ref)  
 MSI Z97S SLI Krait Edition ATX LGA1150 Motherboard 1049SEK [länk](http://cdon.se/hemelektronik/msi-z97s-sli-krait-edition-socket-1150-atx-z97-p30383343?utm_source=prisjakt&utm_medium=cpc&utm_term=%2899%29%20Socket-1150%20MSI%20Z97S%20SLI%20Krait%20Edition%20Socket%201150,%20ATX,%20Z97%20Intel&utm_content=30383343&utm_campaign=prisjakt_se_PC%20-%20Comp%20-%20Motherboard_home-electronics)  
@@ -14,6 +16,15 @@ Intel EXPI9301CTBLK PCI-Express x1 10/100/1000 Mbps Network Adapter 299SEK [länk
 Asus VS228H-P 21.5" Monitor 1590SEK [länk](https://www.inet.se/produkt/2200007/asus-23-vc239h?utm_source=prisjakt&utm_medium=cpc&utm_campaign=prisjakt/#merinfo)  
 Logitech K120 Wired Standard Keyboard 169SEK [länk](http://cdon.se/hemelektronik/logitech-k120-tangentbord-nordiskt-p14924626?utm_source=prisjakt&utm_medium=cpc&utm_term=Logitech%20K120%20%20Keyboard&utm_content=14924626&utm_campaign=prisjakt_se_PC%20-%20Acc%20-%20Keyboard_home-electronics)  
 Logitech M525 Trådlös Mus (vit/röd) 319SEK [länk](http://cdon.se/hemelektronik/logitech-m525-tradlos-mus-vit-rod-p23497753?utm_source=prisjakt&utm_medium=cpc&utm_term=Mouse%20Logitech%20Wireless%20Mouse%20M525&utm_content=23497753&utm_campaign=prisjakt_se_PC%20-%20Acc%20-%20Mice_home-electronics)  
+  
+##Forslag 2:  
 
+![enter image description here](http://picscdn.redblue.de/doi/pixelboxx-mss-69288354/fee_786_587_png/ACER-Aspire-XC-704-DL.SZLEQ.001---K222HQLbmid-21.5%22-Sk%C3%A4rm)
+
+Stationär dator och 21.5" Full HD skärm från Acer med 500 GB HDD, Intel Celeron-processor, 4 GB RAM, Intel® HD Graphics och Windows 10.
+
+Pris: 3990 (inkl. Frakt)  
+
+[Länk till paketet](http://www.mediamarkt.se/sv/product/_acer-aspire-xc-704-dl-szleq-001-k222hqlbmid-21-5-sk%C3%A4rm-1280449.html?gclid=COH4k5uXns4CFWrjcgodF1AKzA&gclsrc=aw.ds&dclid=CPiCs5uXns4CFU4hcgodxnUDbw#specifikation).  
 
 > Written with [StackEdit](https://stackedit.io/).
