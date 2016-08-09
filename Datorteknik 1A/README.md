@@ -1,4 +1,3 @@
-
 ![enter image description here](https://musingsofashibe.files.wordpress.com/2015/10/mrrobotlogo.jpg)
   
 ##Forslag 1  
@@ -16,59 +15,16 @@ Microsoft Windows 10 Pro OEM 64-bit 1590SEK [länk](https://www.netonnet.se/art/d
 Intel EXPI9301CTBLK PCI-Express x1 10/100/1000 Mbps Network Adapter 299SEK [länk](https://www.inet.se/produkt/5402028/intel-gigabit-ct-9301ct-10-100-1000-bulk?utm_source=prisjakt&utm_medium=cpc&utm_campaign=prisjakt/#specs)  
 Asus VS228H-P 21.5" Monitor 1590SEK [länk](https://www.inet.se/produkt/2200007/asus-23-vc239h?utm_source=prisjakt&utm_medium=cpc&utm_campaign=prisjakt/#merinfo)  
 Logitech K120 Wired Standard Keyboard 169SEK [länk](http://cdon.se/hemelektronik/logitech-k120-tangentbord-nordiskt-p14924626?utm_source=prisjakt&utm_medium=cpc&utm_term=Logitech%20K120%20%20Keyboard&utm_content=14924626&utm_campaign=prisjakt_se_PC%20-%20Acc%20-%20Keyboard_home-electronics)  
-Logitech M525 Trådlös Mus (vit/röd) 319SEK [länk](http://cdon.se/hemelektronik/logitech-m525-tradlos-mus-vit-rod-p23497753?utm_source=prisjakt&utm_medium=cpc&utm_term=Mouse%20Logitech%20Wireless%20Mouse%20M525&utm_content=23497753&utm_campaign=prisjakt_se_PC%20-%20Acc%20-%20Mice_home-electronics)   
-  
-###**Produktinformation**
-
-**Tillräckligt minne och hårddiskkapacitet**
-
-Datorn är utformad med tillräckligt primärminne och en legit processor för att leverera det nödvändiga arbetskvalitet för så lång tid som möjligt. Mellan de beslut som gjordes för denna dator är lagringen av det sekundära minnet. Jag är medveten om att en av de frågor som ett kontor kan ha är förmågan hos de hårddiskar så istället för 500 GB eller 1 TB jag bestämde att det skulle vara klokt att öka kapaciteten till 3 TB
-
-**För komfort och länge arbetskvalitet**
-De verktyg som jag använde för att säkerställa att kvaliteten på de delar kommer att vara toppen för bästa möjliga pris, var den internationella **Pcpartpicker** och svenska **Prisjakt**, så nu kan jag försäkra er att alla delar som jag föreslår hade de bästa recensioner och det är på det mest optimala priset.
-
-
-Pris*: 10088 SEK
-*Utan Frakt/Faktura avgift.
+Logitech M525 Trådlös Mus (vit/röd) 319SEK [länk](http://cdon.se/hemelektronik/logitech-m525-tradlos-mus-vit-rod-p23497753?utm_source=prisjakt&utm_medium=cpc&utm_term=Mouse%20Logitech%20Wireless%20Mouse%20M525&utm_content=23497753&utm_campaign=prisjakt_se_PC%20-%20Acc%20-%20Mice_home-electronics)  
   
 ##Forslag 2:  
 
-![HP Prodesk 490 G3 Mt](https://media.dustin.eu/content/15965/t9s65ea.jpg)
-  
-Pris*: 9999 SEK
-*Utan Frakt/Faktura avgift. 
+![enter image description here](http://picscdn.redblue.de/doi/pixelboxx-mss-69288354/fee_786_587_png/ACER-Aspire-XC-704-DL.SZLEQ.001---K222HQLbmid-21.5%22-Sk%C3%A4rm)
 
-[Länk till paketet](https://www.dustin.se/product/5010891239/prodesk-490-g3-mt).    
+Stationär dator och 21.5" Full HD skärm från Acer med 500 GB HDD, Intel Celeron-processor, 4 GB RAM, Intel® HD Graphics och Windows 10.
 
-###**Produktinformation**  
-*(**Enligt säljaren** )*
-Ge verksamheten den stabila grund som behövs för tillväxt med den prisvärda och tillförlitliga HP ProDesk 490 MT. HP ProDesk 400 är utformad med grundläggande säkerhet och hanterbarhet och hjälper din affärsverksamhet att växa.
+Pris: 3990 (inkl. Frakt)  
 
-
-
-
-**Nya kraftfulla processorer och minne**
-
-
-Nya 6:e generationens Intel® Core™-processorer ger kraftfull bearbetning med Intel® HD 530-grafik. Tillgängligt DDR4-minne hjälper till att tillgodose kraven hos dagens företag.
-
-
-**Säkerhet redan från början**
-
-
-HP BIOSphere och HP Client Security ökar säkerheten och håller verksamhetskritiska data och system bakom lås och bom med hjälp av anpassningsbara autentiserings- och BIOS-nivålösenord.
-  
-**Testad för att hålla riktigt länge**
-
-
-HP ProDesk-datorerna genomgår rigorösa tester för att säkerställa tillförlitligheten. Under HPs totala testprocess genomgår datorerna 120 000 timmars prestandatester, så att du kan lita på att jobbet blir gjort.
-
-
-**Gör en smart investering**
-
-
-HP ProDesk 400 MT hjälper till att bygga en stabil IT-infrastruktur till lågt pris för ditt växande företag med skalbarhet i de viktigaste komponenterna som gör att du kan konfigurera den perfekta datorn för varje användare.
-
-
+[Länk till paketet](https://www.dustin.se/product/5010891239/prodesk-490-g3-mt).  
 
 > Written with [StackEdit](https://stackedit.io/).
